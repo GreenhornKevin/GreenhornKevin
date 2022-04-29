@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GreenhornKevin
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning everything .. testing tools, automation testing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in testing software applications. Manually and automate
+- 🌱 I’m currently learning Selenium and Browser. For this two libraries i wrote test cases to automate in Robot Framework
+- 💞️ Currently, I am collaborate on project for corporate company
 - 📫 How to reach me: kevin.franzki@tesena.com
 
 <!---
